@@ -1,0 +1,4 @@
+slacker
+python-crontab
+croniter
+python-dotenv
